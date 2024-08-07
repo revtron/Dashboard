@@ -1,0 +1,8 @@
+.Container{
+   height: 93vh;
+   width: 97vw;
+   background-color: black ;
+   position: absolute;
+   top: 7%;
+   left: 3%;
+}

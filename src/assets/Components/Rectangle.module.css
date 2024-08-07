@@ -1,0 +1,8 @@
+.rectangle{
+   height: 20vh;
+   width: 76vh;
+   background-color: #202028;
+   margin-top:31px;
+   margin-left:3%;
+   border-radius: 5px;
+}
